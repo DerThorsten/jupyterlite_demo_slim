@@ -9,13 +9,6 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
-        "name": "@jupyterlite/p5-kernel-extension",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
         "load": "static/remoteEntry.444cde1d553878a66dd2.js",
         "name": "@jupyterlite/xeus-lua-kernel",
         "style": "./style"
